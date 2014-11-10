@@ -7,9 +7,15 @@ Period 5
 ## Main Projects 
 
 ## Mini Projects 
-  * login 
-  *   Elise Zlotnikova, Vanessa Yan
-  *   5/intro-proj1/yan_zlotnikova
+ * login 
+  * Elise Zlotnikova, Abrar Ahmed
+  * 5/login/abrar_elise
+ * regexp
+  * Elise Zlotnikova, Sappha O'Meara
+  * 5/regexp/sappha_elise 
+ * intro-proj1  
+  * Elise Zlotnikova, Vanessa Yan
+  * 5/intro-proj1/yan_zlotnikova
 
 ### Flask/Jinga Website 
 #### Vanessa Yan, Elise Zlotnikova
