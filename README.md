@@ -8,8 +8,9 @@ Period 5
 
 ### Search Engine (Language Interpreter/Data Scraping)
 #### Elise Zlotnikova, Jenny Baran, Fawn Wong, Eric Kolbusz 
-#### A search engine that the user can use to ask a Who? or When? question. It uses Google's python library to find the top 10 URLs to the search query, BeautifulSoup to scrape the text from the 10 pages, and regular expressions to retrieve the names and dates from the text. The site presents the top 5 most frequent names and dates to the search query. 
-####(https://github.com/jybaran/turbo-shame.git)
+#### Description 
+A search engine that the user can use to ask a Who? or When? question. It uses Google's python library to find the top 10 URLs to the search query, BeautifulSoup to scrape the text from the 10 pages, and regular expressions to retrieve the names and dates from the text. The site presents the top 5 most frequent names and dates to the search query. 
+####https://github.com/jybaran/turbo-shame.git
 
 ## Mini Projects 
  * login 
