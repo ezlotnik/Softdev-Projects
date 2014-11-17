@@ -6,6 +6,12 @@ Period 5
 
 ## Main Projects 
 
+### API Project - League Time Viewer
+#### Elise Zlotnikova, Elvin Shoyfer 
+#### Description 
+Uses the Riot Games API to create a graph for an user-inputed League Of Legends player. The graph displays the games that the player has played by hour.  The graphing was done using Plotly. 
+####https://github.com/eshoyfer/league-time-viewer.git
+
 ### Search Engine (Language Interpreter/Data Scraping)
 #### Elise Zlotnikova, Jenny Baran, Fawn Wong, Eric Kolbusz 
 #### Description 
