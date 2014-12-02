@@ -25,6 +25,9 @@ A blogging engine that uses SQL to store blog posts. Each blog post has a title,
 #### https://github.com/jasonluX13/hairy-dubstep-blog.git
 
 ## Mini Projects 
+ * to do list
+  * Elise Zlotnikova
+  * 5/todo/elise_z
  * login 
   * Elise Zlotnikova, Abrar Ahmed
   * 5/login/abrar_elise
