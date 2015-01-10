@@ -6,6 +6,12 @@ Period 5
 
 ## Main Projects 
 
+### Final Project - Social TV 
+#### Sappha O'Meara, Fawn Wong, Elise Zlotnikova
+#### Description
+A social way to watch TV shows. See what your friends are watching, recommended TV shows, etc. 
+####https://github.com/fawnwong/TVthing
+
 ### API Project - League Time Viewer
 #### Elise Zlotnikova, Elvin Shoyfer 
 #### Description 
@@ -25,6 +31,9 @@ A blogging engine that uses SQL to store blog posts. Each blog post has a title,
 #### https://github.com/jasonluX13/hairy-dubstep-blog.git
 
 ## Mini Projects 
+ * invisible thluffy
+  * Elise Zlotnikova
+  * 5/invisiblethluffy/elise_z
  * to do list
   * Elise Zlotnikova
   * 5/todo/elise_z
